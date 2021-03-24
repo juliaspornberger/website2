@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616618542747.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3636404287",
+    "id" : "AA1D55E9",
+    "lastKnownWriteTime" : 1616615980,
+    "last_content_update" : 1616615980,
+    "path" : "~/Github/website2/site/config.yaml",
+    "project_path" : "config.yaml",
+    "properties" : {
+        "cursorPosition" : "6,24",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

@@ -2,8 +2,10 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Teaching
 type: page
 ---
 
-I teach the following courses:
+- Public Economics (Undergraduate level)
+- Microeconomics (Undergraduate level)
+

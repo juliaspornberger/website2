@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: 
   matter.
 education:
   courses:
@@ -44,4 +44,4 @@ I am an economist working in the field of international economics and applied ec
 
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
