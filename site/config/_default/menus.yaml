@@ -5,7 +5,8 @@
 
 main:
   - name: Research
-    url: '#featured'
+    #url: '#publication'
+    url: publication/
     weight: 10
   - name: Teaching
     url: courses/

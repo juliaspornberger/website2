@@ -22,30 +22,30 @@ twitter: ''
 
 email: julia.spornberger@uibk.ac.at
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '47.269927'
+  longitude: '11.397439'
+directions: Enter the SoWi Building and take the stairs to Office w3.28 on Floor 3
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+ # - 'Monday 10:00 to 13:00'
+ # - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  name: DM Me
+  #  link: 'https://twitter.com/Twitter'
+  # - icon: skype
+  #  icon_pack: fab
+  #  name: Skype Me
+  #  link: 'skype:echo123?call'
+  # - icon: keybase
+  #  icon_pack: fab
+  #  name: Chat on Keybase
+  #  link: 'https://keybase.io/'
+  #- icon: comments
+  #  icon_pack: fas
+  #  name: Discuss on Forum
+  #  link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -55,7 +55,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  #show_search: true
   highlight_active_link: true
 
 # Localization
@@ -68,8 +68,8 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
-  - python
+  - stata
+#  - python
   - latex
 math: false
 diagram: false

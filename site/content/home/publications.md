@@ -14,7 +14,7 @@ weight: 90
 
 
 
-title: Working papers
+title: Research
 subtitle: ''
 
 content:
@@ -41,8 +41,5 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+
